@@ -1,7 +1,7 @@
 # Author: Shakeb Siddiqui
 # Collaborator: Samarth Tehri sqt5555@psu.edu
 # Collaborator: James Mattison jwm6532@psu.edu
-# Collaborator:  Gabriel Charpentier gbc5202@psu.edu
+# Collaborator: Gabriel Charpentier gbc5202@psu.edu
 # Section: 10
 # Breakout: 4
 
