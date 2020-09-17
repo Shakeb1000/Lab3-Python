@@ -1,4 +1,4 @@
-# Author: Shakeb Siddiqui
+# Author: Shakeb Siddiqui sms8505@psu.edu
 # Collaborator: Samarth Tehri sqt5555@psu.edu
 # Collaborator: James Mattison jwm6532@psu.edu
 # Collaborator: Gabriel Charpentier gbc5202@psu.edu
